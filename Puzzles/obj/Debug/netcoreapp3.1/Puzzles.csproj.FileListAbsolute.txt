@@ -1,0 +1,13 @@
+C:\Users\micha\OneDrive\Desktop\stacks\c_sharp\fundamentals\Puzzles\bin\Debug\netcoreapp3.1\Puzzles.exe
+C:\Users\micha\OneDrive\Desktop\stacks\c_sharp\fundamentals\Puzzles\bin\Debug\netcoreapp3.1\Puzzles.deps.json
+C:\Users\micha\OneDrive\Desktop\stacks\c_sharp\fundamentals\Puzzles\bin\Debug\netcoreapp3.1\Puzzles.runtimeconfig.json
+C:\Users\micha\OneDrive\Desktop\stacks\c_sharp\fundamentals\Puzzles\bin\Debug\netcoreapp3.1\Puzzles.runtimeconfig.dev.json
+C:\Users\micha\OneDrive\Desktop\stacks\c_sharp\fundamentals\Puzzles\bin\Debug\netcoreapp3.1\Puzzles.dll
+C:\Users\micha\OneDrive\Desktop\stacks\c_sharp\fundamentals\Puzzles\bin\Debug\netcoreapp3.1\Puzzles.pdb
+C:\Users\micha\OneDrive\Desktop\stacks\c_sharp\fundamentals\Puzzles\obj\Debug\netcoreapp3.1\Puzzles.csprojAssemblyReference.cache
+C:\Users\micha\OneDrive\Desktop\stacks\c_sharp\fundamentals\Puzzles\obj\Debug\netcoreapp3.1\Puzzles.AssemblyInfoInputs.cache
+C:\Users\micha\OneDrive\Desktop\stacks\c_sharp\fundamentals\Puzzles\obj\Debug\netcoreapp3.1\Puzzles.AssemblyInfo.cs
+C:\Users\micha\OneDrive\Desktop\stacks\c_sharp\fundamentals\Puzzles\obj\Debug\netcoreapp3.1\Puzzles.csproj.CoreCompileInputs.cache
+C:\Users\micha\OneDrive\Desktop\stacks\c_sharp\fundamentals\Puzzles\obj\Debug\netcoreapp3.1\Puzzles.dll
+C:\Users\micha\OneDrive\Desktop\stacks\c_sharp\fundamentals\Puzzles\obj\Debug\netcoreapp3.1\Puzzles.pdb
+C:\Users\micha\OneDrive\Desktop\stacks\c_sharp\fundamentals\Puzzles\obj\Debug\netcoreapp3.1\Puzzles.genruntimeconfig.cache

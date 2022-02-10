@@ -1,0 +1,13 @@
+C:\Users\micha\OneDrive\Desktop\stacks\c_sharp\fundamentals\Basic13\bin\Debug\netcoreapp3.1\Basic13.exe
+C:\Users\micha\OneDrive\Desktop\stacks\c_sharp\fundamentals\Basic13\bin\Debug\netcoreapp3.1\Basic13.deps.json
+C:\Users\micha\OneDrive\Desktop\stacks\c_sharp\fundamentals\Basic13\bin\Debug\netcoreapp3.1\Basic13.runtimeconfig.json
+C:\Users\micha\OneDrive\Desktop\stacks\c_sharp\fundamentals\Basic13\bin\Debug\netcoreapp3.1\Basic13.runtimeconfig.dev.json
+C:\Users\micha\OneDrive\Desktop\stacks\c_sharp\fundamentals\Basic13\bin\Debug\netcoreapp3.1\Basic13.dll
+C:\Users\micha\OneDrive\Desktop\stacks\c_sharp\fundamentals\Basic13\bin\Debug\netcoreapp3.1\Basic13.pdb
+C:\Users\micha\OneDrive\Desktop\stacks\c_sharp\fundamentals\Basic13\obj\Debug\netcoreapp3.1\Basic13.csprojAssemblyReference.cache
+C:\Users\micha\OneDrive\Desktop\stacks\c_sharp\fundamentals\Basic13\obj\Debug\netcoreapp3.1\Basic13.AssemblyInfoInputs.cache
+C:\Users\micha\OneDrive\Desktop\stacks\c_sharp\fundamentals\Basic13\obj\Debug\netcoreapp3.1\Basic13.AssemblyInfo.cs
+C:\Users\micha\OneDrive\Desktop\stacks\c_sharp\fundamentals\Basic13\obj\Debug\netcoreapp3.1\Basic13.csproj.CoreCompileInputs.cache
+C:\Users\micha\OneDrive\Desktop\stacks\c_sharp\fundamentals\Basic13\obj\Debug\netcoreapp3.1\Basic13.dll
+C:\Users\micha\OneDrive\Desktop\stacks\c_sharp\fundamentals\Basic13\obj\Debug\netcoreapp3.1\Basic13.pdb
+C:\Users\micha\OneDrive\Desktop\stacks\c_sharp\fundamentals\Basic13\obj\Debug\netcoreapp3.1\Basic13.genruntimeconfig.cache
